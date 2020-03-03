@@ -22,10 +22,10 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Componentes
 
-**Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
+**Header:** Responsável por exibir a logo e o link para acessar o perfil;
 
-**PostList (Verde):** Responsável por armazenar os dados da listagem de post, esses dados devem ficar dentro do `state` do componente e não em uma variável comum;
+**PostList:** Responsável por armazenar os dados da listagem de post, esses dados devem ficar dentro do `state` do componente e não em uma variável comum;
 
-**Post (Vermelho):** Responsável por exibir os dados do post, esses dados devem vir através de uma propriedade recebida do componente PostList;
+**Post:** Responsável por exibir os dados do post, esses dados devem vir através de uma propriedade recebida do componente PostList;
 
-**Comment (Azul):** Responsável por exibir um comentário. Os dados do comentário virão por uma propriedade do componente. 
+**Comment:** Responsável por exibir um comentário. Os dados do comentário virão por uma propriedade do componente. 

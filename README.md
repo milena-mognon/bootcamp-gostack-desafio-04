@@ -18,7 +18,7 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Tela](.github/tela-aplicacao.png)
+![Tela](.github/tela-aplicacao.PNG)
 
 ### Componentes
 
